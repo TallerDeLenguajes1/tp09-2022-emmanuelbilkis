@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\bin\Debug\net6.0\punto2.exe
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\bin\Debug\net6.0\punto2.deps.json
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\bin\Debug\net6.0\punto2.runtimeconfig.json
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\bin\Debug\net6.0\punto2.dll
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\bin\Debug\net6.0\punto2.pdb
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\obj\Debug\net6.0\punto2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\obj\Debug\net6.0\punto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\obj\Debug\net6.0\punto2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\obj\Debug\net6.0\punto2.AssemblyInfo.cs
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\obj\Debug\net6.0\punto2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\obj\Debug\net6.0\punto2.dll
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\obj\Debug\net6.0\refint\punto2.dll
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\obj\Debug\net6.0\punto2.pdb
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\obj\Debug\net6.0\punto2.genruntimeconfig.cache
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp9\tp09-2022-emmanuelbilkis\punto2\obj\Debug\net6.0\ref\punto2.dll

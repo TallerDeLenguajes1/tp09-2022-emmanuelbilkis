@@ -1,0 +1,15 @@
+[
+  {
+    "nombre": "coca",
+    "fechavencimiento": "2022-08-14T16:49:21.1569366-03:00",
+    "precio": 1000,
+    "tamanio": "Grande"
+  },
+  {
+    "nombre": "pepsi",
+    "fechavencimiento": "2022-08-14T16:49:26.7272161-03:00",
+    "precio": 1000,
+    "tamanio": "Grande"
+  }
+]
+
